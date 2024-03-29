@@ -1,5 +1,5 @@
 # Juin
-Spotify inspired lock screen player. Juin for rootless jailbreaks can be found (here)[https://onejailbreak.com/blog/juin-tweak/].
+Spotify inspired lock screen player. Juin for rootless jailbreaks can be found [here](https://onejailbreak.com/blog/juin-tweak/).
 
 ## Installation
 1. Add this repository to your Package Manager: https://repo.litten.love
